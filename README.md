@@ -1,1 +1,2 @@
-print('Hello, World!')
+# Adrianna: Prints a simple short story
+print('What would you and your pet talk about, if they could talk?'),('I would've talked about what they'd want to do or see what they were thinking about me and my family. I do think all pets talk to other pets like us humans about their owner or what they did compared what the other pet did. I know my dogs get jealous if you pet one and not the other so it'd be interesting to see what they would be talking about to themselves and you.') 
