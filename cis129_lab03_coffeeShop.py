@@ -15,5 +15,6 @@ Tax = C_and_M * taxRate
 Total = C_and_M + Tax
 print('--------------------')
 print('My Coffee and Muffin Shop Receipt')
-print("Total: $"(Total)) #??? line 18
+print('Total:' {$}(Total)
+#??? line 18: print("Total: $"(Total))
 # How in the world do I do this last part...
